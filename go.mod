@@ -1,4 +1,4 @@
-module github.com/Albert-Zhan/httpc
+module  github.com/Clivebi/httpc
 
 go 1.15
 
